@@ -1,5 +1,5 @@
 # Self Introduction
-**name** : siddharth  
+**name** : *siddharth*  
 **introduction** : my name is siddharth,i am from chennai.i am currently studying at iit madras in betch program in ai and data analytics  
 **hobies** : my hobies include playing badminton and binge watching web-series  
 **intresting thing about git** : i found the staging feature in git intresting  
